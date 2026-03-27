@@ -8,7 +8,7 @@
   "server": {
     "ip": "w9server.aternos.me",
     "port": 22707,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
